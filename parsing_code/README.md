@@ -1,0 +1,1 @@
+This folder contains the Python code used to parse the output data from MISP (found in the raw JSON folder). Specifically, the code parses the feedback records to extract features that we ran our experiments with.
