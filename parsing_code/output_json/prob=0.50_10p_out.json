@@ -1,0 +1,2052 @@
+[
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.47807663679122925,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.34570297598838806,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.10198593139648438,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.0360364094376564,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.0008480911492370069,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3691881597042084,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.35988351702690125,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.08447767049074173,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.07129041105508804,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.48724597692489624,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3899800777435303,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.12202648073434831,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.0006525747594423594,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.47264161705970764,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.43996933102607727,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.2596731420119529,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.009777333587408066,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4709724485874176,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4666442573070526,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.41234657168388367,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.08363710343837738,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.012104395776987076,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4380170404911041,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2967838943004608,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.16374775767326358,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.05357213690876962,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.30494415760040283,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.299222856760025,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.155959814786911,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.15367664396762848,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3891652226448059,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.19015805423259735,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.15836413204669952,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.09023849666118622,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.42550042271614075,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.23642857372760773,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.13057884573936462,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.12027984112501144,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3679761290550232,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2084813117980957,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.1882774978876114,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.15919339656829834,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.34202185273170477,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2477717399597168,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2079101949930191,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.13166765868663788,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3823360204696655,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3515271246433258,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.13081853091716764,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.07580732554197313,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4340321123600006,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.2051474153995514,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.19814760982990265,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.10169471055269241,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.421908438205719,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.33412009477615356,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.11279699951410292,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.09543404728174211,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4499512314796448,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.31779080629348755,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.22717030346393585,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.003389145946130155,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4754788875579834,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.43188515305519104,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.06898592412471773,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.01820481941103936,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.40993326902389526,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.20535393059253695,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.1435679793357849,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.11423521488904953,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4462500214576721,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.30997803807258606,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.1749414354562759,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.045303173363208764,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.3397364318370819,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.30952122807502747,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.1761336475610733,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.10373972356319427,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.40879103541374207,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.29969862103462214,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.28980717062950134,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.0008951516356319186,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.2718072533607483,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.2707951068878174,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.17548877000808716,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.1354840248823166,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.44774895906448364,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.27367475628852844,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.16784358024597168,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.07593812048435211,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3855889141559601,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.19249747693538666,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.0374908410012722,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 5.435999992187135e-05,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4722249209880829,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4064238667488098,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.06776224821805954,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.03657546266913414,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.47624704241752625,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.25406962633132935,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.16608257591724399,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.07938404381275178,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4803950786590576,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3802586793899536,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.12881068885326385,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.009093884378671646,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.002784284297376871,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.00031781377037987113,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 5.836162131345191e-07,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.44455212354660034,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.33452147245407104,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.279599666595459,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.27202367782592773,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.04872453212738037,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.43780001997947693,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.31203925609588623,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.7184005383248685,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.16932411491870877,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.11090882867574693,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.49970585107803345,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4588148295879364,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.04097522795200348,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.00035554394708015025,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.458269327878952,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.42390376329421997,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2930273115634919,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.23073971271514895,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.16164527833461761,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.07087228447198869,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4953080713748932,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "ORDER_DESC_ASC",
+    "tag_prob": 0.3677549362182617,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.4294632077217102,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.3713691532611847,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.08054470270872116,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.03053201735019684,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.39970651268959045,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.3907678723335266,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.06101469695568085,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.05417133867740631,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.44743847846984863,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.46604523062705994,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.24606871604919434,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.19958843290805817,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.047159794718027115,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.47229599952697754,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.44969987869262695,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.04117496311664581,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.02577774412930012,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.44913017749786377,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3893861770629883,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.05549884960055351,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.05274530127644539,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.44470494985580444,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.21399207413196564,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.20817235112190247,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.030757123604416847,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.46817830204963684,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.31142252683639526,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.10562576353549956,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.08341235667467117,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4160648584365845,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3022986948490143,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.2150203287601471,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.04160432144999504,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.49483078718185425,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.47297245264053345,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3786649703979492,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.24517010152339935,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.1497182697057724,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.12282383441925049,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.38844916224479675,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.21037818491458893,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.11437714844942096,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.08835152536630629,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4606078267097473,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4035153388977051,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.31380224227905273,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.14903509616851807,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.13327351212501526,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4219313859939575,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.32441988587379456,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.2272106558084488,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.015929553657770157,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.46110790967941284,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.38025861978530884,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.3805119399935359,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.003145199501886964,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3970571458339691,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3423173129558563,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.2600167691707611,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.00037713354686275125,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4694872796535492,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.39001452922821045,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.13998180627822876,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.00018101665773428977,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3821359872817993,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.33805298805236816,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.1480211317539215,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.03656317666172981,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4421311318874359,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.30269655585289,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.11072807013988493,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.5131966137508762,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.46773988008499146,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4597756266593933,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.41823816299438477,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.3923599421977997,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.11458927392959595,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.035216011106967926,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.42914512753486633,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4402218163013458,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.41183847188949585,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.08240312337875366,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.035597335547208786,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3739805817604065,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2317207008600235,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.21649764478206635,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.08215302228927614,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.43794092535972595,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.3392333388328552,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.09501896798610687,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.05900717154145241,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.4769798219203949,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.44252809882164,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.049929287284612656,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.02631540037691593,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.45674648880958557,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.4247433841228485,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.07058496028184891,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.03296088054776192,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.40952086448669434,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.27632930874824524,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.15775838494300842,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.05799108371138573,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.30231553316116333,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.2690473794937134,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.1372498869895935,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.12105745822191238,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.46711498498916626,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.3382609784603119,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.1712857037782669,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.013933790847659111,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4454323351383209,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3194863796234131,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.23506325483322144,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 1.3338840290089138e-05,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.3445588946342468,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.276724636554718,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.25202229619026184,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.05457940325140953,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.386094868183136,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3384453356266022,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.2613447606563568,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.012024909257888794,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.49798232316970825,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.47007670998573303,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.02432838268578053,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.005498075392097234,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.48351526260375977,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4096454381942749,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.27087661623954773,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.11913894861936568,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.06396246701478957,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.33363673090934753,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.30815887451171875,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.21768620610237122,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.1285940706729889,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.32116663455963135,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.29344886541366577,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.09679879248142242,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.06608237326145172,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.4086040258407593,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.24992094933986667,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.20020367205142975,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "ORDER_AGG_v2",
+    "tag_prob": 0.04730142280459403,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 3.371717696154519e-07,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 8.748555657689394e-09,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 1.6128465230025313e-10,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.38565775752067566,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.18104760348796842,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.1766560971736908,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.052974335849285126,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3445351719856262,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3044198453426361,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.12282729148864746,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.03886036202311516,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.35385552048683167,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.22427994012832642,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.19405701756477356,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.15952590107917786,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3252703547477722,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4144660234451294,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.351100891828537,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.6625347297229833,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3828157632092918,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.44193339347839355,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3721778690814972,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.11027691513299942,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.07539693266153336,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4394918978214264,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.41998806595802307,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.1260773241519928,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.013004637323319912,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4263077676296234,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.28474804759025574,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.22681492567062378,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.06159905344247818,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.47494494915008545,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.02892444096505642,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.020605439320206642,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.43457502126693726,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.34401196241378784,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.20030057430267334,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.01592187024652958,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3683270215988159,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3226988017559051,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.15159159898757935,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.07822221517562866,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.49868637323379517,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4483090937137604,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3744773864746094,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.1914939284324646,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.18812046945095062,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.1577250063419342,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3962901532649994,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.37512341141700745,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.16185113787651062,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.028488650918006897,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3967399597167969,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.30831587314605713,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.10289714485406877,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.09158138930797576,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3081423044204712,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2721136212348938,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.2223550379276276,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.17953293025493622,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3388206958770752,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.49614837765693665,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.458290159702301,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4967261552810669,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4903205633163452,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.012941431254148483,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 6.896657851029886e-06,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4950128197669983,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.40052202343940735,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.08943726867437364,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.010573342442512509,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.45644667744636536,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.36157870292663574,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.16012948751449585,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.01931602880358696,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.34680819511413574,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.10971131175756454,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.04849763959646225,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.344631552696228,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.22885099053382874,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.21943038702011108,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.10643960535526278,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.38872870802879333,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.35911881923675537,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.3684594098535991,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_OP",
+    "tag_prob": 0.2859380775255205,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.47564512491226196,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3627891540527344,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.1250369846820831,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.11585456877946855,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.07151897996664047,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3954286575317383,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3196597695350647,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.17789234220981598,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.070283442735672,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.46765410900115967,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.3169458508491516,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.10466227680444717,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "GROUP_COL",
+    "tag_prob": 0.084870845079422,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "IUEN_v2",
+    "tag_prob": 0.37098872661590576,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "ORDER_LIMIT",
+    "tag_prob": 0.3757118880748749,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4342757761478424,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.24807137250900269,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.22857896983623505,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.0372416116297245,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.016308903694152832,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.002402090234681964,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.0014919654931873083,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.0005472301272675395,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4476667642593384,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.34857770800590515,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.6383236867806399,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.3659463064513674,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.4365752339363098,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.38213372230529785,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.22451503574848172,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.1794788092374802,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.07481012493371964,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.3086520731449127,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.24991022050380707,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.23452946543693542,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.1066172644495964,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.4045547842979431,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.39759811758995056,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.16091494262218475,
+    "tag_resp": 1
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.019700590521097183,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.45614397525787354,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.20254434645175937,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.06645998358726501,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "SELECT_AGG_v2",
+    "tag_prob": 0.06594850867986678,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.46054014563560486,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.40931767225265503,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.06934455782175064,
+    "tag_resp": 0
+  },
+  {
+    "tag_name": "WHERE_COL",
+    "tag_prob": 0.04237290099263191,
+    "tag_resp": 0
+  }
+]
